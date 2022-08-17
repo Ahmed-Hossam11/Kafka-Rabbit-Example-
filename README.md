@@ -26,6 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Notion
+
+```bash
+https://www.notion.so/Messaging-queue-bdbc41fd0c2b49148b4c6b0af243107d
+```
+
 ## Installation
 
 ```bash
